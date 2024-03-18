@@ -7,13 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightmareFox12&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br>
 
-<img align="left" height="160" src="https://avatars.githubusercontent.com/u/112921490?v=4"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />

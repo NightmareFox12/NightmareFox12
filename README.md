@@ -1,9 +1,7 @@
 <h3 align="left">Hello! I'm NightmareFox 🦊, I like to learn and be aware of updated technologies. 💻 (ps: I like to identify 2 spaces 😅😅)</h3>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NightmareFox12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightmareFox12&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
 

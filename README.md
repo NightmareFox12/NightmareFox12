@@ -1,4 +1,4 @@
-<h3 align="left">Hello! I'm NightmareFox 🦊, I like to learn and be aware of updated technologies. 💻 (ps: I like to identify 2 spaces 😅😅)</h3>
+<h3 align="left">Hello! I'm NightmareFox 🦊, I like to learn and be aware of updated technologies. 💻 (ps: I like to identify the all code with 2 spaces 😅😅)</h3>
 
 ###
 <div align="center">

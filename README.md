@@ -6,9 +6,8 @@
 
 ### 💻 About Me
 - I'm a developer who enjoys building cool things and solving problems.
-- My focus is on creating scalable and efficient applications, especially in the web and blockchain space.
+- My focus is on creating scalable and efficient applications, especially in the web, mobile and blockchain space.
 - I'm a big fan of two-space indentation. Clean code is happy code! 😅
-
 ---
 
 ### 🛠️ My Skills

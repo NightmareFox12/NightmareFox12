@@ -70,6 +70,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=NightmareFox12&show_icons=true&rank_icon=github&title_color=ff0000&icon_color=ff0000&text_color=e0e0e0&bg_color=000000" alt="GitHub Stats" />
 </div>
 
+---
+### 🏛️Large-Scale Applications
+
+<img width="400" height="400" alt="nutriactive" src="https://github.com/user-attachments/assets/8b38af0f-bab1-419c-817e-c468ee2523cd" />
+
+- NutriActive: 28,000 lines.
 <!--
 ---
 ### 🌐 Connect with me

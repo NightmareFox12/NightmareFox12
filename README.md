@@ -67,6 +67,7 @@
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NightmareFox12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NightmareFox12&theme=react-dark&hide_border=true)
 </div>
 
 ---

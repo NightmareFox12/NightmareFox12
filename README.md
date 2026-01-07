@@ -61,13 +61,12 @@
 ---
 
 ### 📈 My GitHub Stats
+<div align="center">
+  
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NightmareFox12&hide_title=false&layout=compact&card_width=430&langs_count=10&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightmareFox12&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=codeSTACKr&hide_border=false" height="200" alt="languages graph" />
-</div>
-<br/>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=NightmareFox12&show_icons=true&rank_icon=github&title_color=ff0000&icon_color=ff0000&text_color=e0e0e0&bg_color=000000" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NightmareFox12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
 </div>
 
 ---

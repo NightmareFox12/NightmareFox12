@@ -75,7 +75,7 @@
 
 <img width="400" height="400" alt="nutriactive" src="https://github.com/user-attachments/assets/8b38af0f-bab1-419c-817e-c468ee2523cd" />
 
-- NutriActive: 28,000 lines.
+- NutriActive: +28,000 lines.
 <!--
 ---
 ### 🌐 Connect with me

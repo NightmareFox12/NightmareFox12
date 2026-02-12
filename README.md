@@ -1,6 +1,9 @@
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=nightmarefox12&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=35&pause=1000&width=435&height=100&lines=NightmareFox12)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=40&pause=1000&color=23FFF0&random=true&width=700&height=100&lines=Hi!+I'm+NightmareFox12;Full-Stack+Developer;Mobile+%26+Blockchain+Enthusiast;AI+Engineer%3A+RAG+Systems;Powered+by+logic%2C+not+caffeine+%F0%9F%A7%A0)](https://git.io/typing-svg)
+</div>
 
 # Hi there! I'm NightmareFox12 🦊
 ### A passionate Full-Stack Developer always learning and exploring new technologies.

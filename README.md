@@ -80,6 +80,12 @@
 <img width="400" height="400" alt="nutriactive" src="https://github.com/user-attachments/assets/8b38af0f-bab1-419c-817e-c468ee2523cd" />
 
 - NutriActive: +28,000 lines.
+
+---
+### 🌐 Achievements and Awards
+[Austin Griffith - Scaffold-ETH 2 + ShadCN](https://x.com/austingriffith/status/1964364319820566556)
+
+[Winner of 2nd place in the Starknet Hackaton](https://x.com/ScaffoldStark/status/1897568265892929781)
 <!--
 ---
 ### 🌐 Connect with me

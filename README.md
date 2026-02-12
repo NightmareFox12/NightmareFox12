@@ -1,7 +1,8 @@
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=nightmarefox12&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF" />
+
 # Hi there! I'm NightmareFox 🦊
 
 ### A passionate Full-Stack Developer always learning and exploring new technologies.
-
 ---
 
 ### 💻 About Me

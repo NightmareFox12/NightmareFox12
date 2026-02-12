@@ -1,9 +1,9 @@
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=nightmarefox12&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF" />
 
-# Hi there! I'm NightmareFox 🦊
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=35&pause=1000&width=435&height=100&lines=NightmareFox12)](https://git.io/typing-svg)
 
+# Hi there! I'm NightmareFox12 🦊
 ### A passionate Full-Stack Developer always learning and exploring new technologies.
----
 
 ### 💻 About Me
 - I'm a developer who enjoys building cool things and solving problems.

@@ -86,9 +86,4 @@
 [Austin Griffith - Scaffold-ETH 2 + ShadCN](https://x.com/austingriffith/status/1964364319820566556)
 
 [Winner of 2nd place in the Starknet Hackaton](https://x.com/ScaffoldStark/status/1897568265892929781)
-<!--
----
-### 🌐 Connect with me
 
-[**Your Twitter Profile**](https://twitter.com/your-username) | [**Your LinkedIn Profile**](https://www.linkedin.com/in/your-username/) | [**Your Personal Website**](https://your-website.com)
--->

@@ -74,14 +74,16 @@
   <img height="60%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api?username=nightmareFox12&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=nightmareFox12&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NightmareFox12&theme=react-dark&hide_border=true)
+</div>
+
 <!--
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NightmareFox12&hide_title=false&layout=compact&card_width=430&langs_count=10&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NightmareFox12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NightmareFox12&theme=react-dark&hide_border=true)
-</div>
+
 -->
 ---
 ### 🏛️Large-Scale Applications

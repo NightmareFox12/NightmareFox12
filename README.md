@@ -6,6 +6,7 @@
 </div>
 
 # Hi there! I'm NightmareFox12 🦊
+![](https://komarev.com/ghpvc/?username=NightmareFox12&color=blue)
 ### A passionate Full-Stack Developer always learning and exploring new technologies.
 
 ### 💻 About Me
